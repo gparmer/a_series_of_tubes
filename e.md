@@ -19,4 +19,4 @@ Do an [address lookup](https://www.ultratools.com/tools/yourIPResult)!
 - **Question E5:** When your GPS on your phone goes down, why does your phone want you to have wifi on for "location"?
 	How does this spycraft work?
 
-The [next stop]() on our tour of the tubes.
+The [next stop](./d.md) on our tour of the tubes.

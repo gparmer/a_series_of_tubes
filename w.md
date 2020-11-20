@@ -14,7 +14,7 @@
 Add in `www.gwu.edu`, and "start test".
 There is some "noise" in these results, so they aren't perfect, but they give you a sense of how long it takes to access the webpage from around the world.
 
-- **Question W4:**: Looking at some of these values.
+- **Question W4:** Looking at some of these values.
 	Compare with your brainstorming from Question W3.
 	Since GWU is in Washington, DC, does all of this make sense?
 

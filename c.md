@@ -10,6 +10,6 @@ Each router needs to separately simply decide on which "output tube" send data d
 Use [this tool](https://www.uptrends.com/tools/ping-test) with `www.gwu.edu`, and mouse-over any of the locations to see the sequence of different "hops" that data takes going from that source, to the webpage.
 This set of hops is measured using `traceroute` and [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) "ping" packets.
 
-- **Question C1:** Can you outline such an algorithm that would let each router construct a routing table?
+- **Question C1:** Can you outline such an algorithm that would let each router construct a routing table for each router?
 
 The [next stop](./e.md) on our tour of the tubes.

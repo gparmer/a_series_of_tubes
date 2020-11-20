@@ -15,6 +15,7 @@ It is a "hierarchical" and "distributed" system to convert from `www.gwu.edu` in
 	What do they mean?
 	Why are there two sets of them?
 - **Question 2D:** At the very bottom, it says that `www.gwu.edu` resolves to `www.gwu.edu.cdn.cloudflare.net`.
+	[This](https://www.wolframalpha.com/input/?i=ip+for+www.gwu.edu) reinforces that sense of strangeness.
 	Huh?
 	Shouldn't GWU resolve to, you know, a GWU address?
 	Any guesses what's happening here?

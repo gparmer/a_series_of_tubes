@@ -35,32 +35,3 @@ The *algorithm* for your group interactions is as follows.
 8. Activate the "yes" zoom emoji, and chat until other teams are done.
 
 The [first stop](./t.md) on our tour of the tubes.
-
-
-
-## Time to Detective the Heck out of the Tubes
-
-Lets make use of the [DNS traversal tool](https://www.ultratools.com/tools/dnsTraversalResult).
-[DNS](https://en.wikipedia.org/wiki/Domain_Name_System) is the "Domain Name System".
-It is a "hierarchical" and "distributed" system to convert from `www.gwu.edu` into `128.164.141.12`.
-
-- What does it mean for it to be hierarchical and distributed?
-
-**Lookup: `www.gwu.edu`**
-
-- What are the two sequences of symbols on the right in the following?
-
-    ![What are those symbols?](gwu_dns.png)
-
-	What do they mean?
--
-
-**Lookup: `www.facebook.edu`**
-
-- There's an [easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) hidden here.
-	Can you find it?
-
-**Lookup: `etsy.com` and `netflix.com`**
-
-- There are some interesting similarities here.
-	What are they, and can you explain them?

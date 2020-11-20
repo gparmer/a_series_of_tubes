@@ -18,4 +18,10 @@ There is some "noise" in these results, so they aren't perfect, but they give yo
 	Compare with your brainstorming from Question W3.
 	Since GWU is in Washington, DC, does all of this make sense?
 
+Use that same tool to lookup `lobste.rs` which is a webpage hosted in [Oregon](https://www.wolframalpha.com/input/?i=ip+for+lobste.rs).
+
+- **Question W5:** Contrast the previous results from `www.gwu.edu` with these results.
+	Are there any odd happenings?
+	Try explaining them.
+
 The [next stop](./c.md) on our tour of the tubes.

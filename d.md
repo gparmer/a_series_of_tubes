@@ -25,7 +25,7 @@ It is a "hierarchical" and "distributed" system to convert from `www.gwu.edu` in
 - **Question 3D:** There are some interesting similarities here.
 	What are they, and can you explain them?
 
-*Lookup: `www.facebook.edu`*
+*Lookup: `www.facebook.com`*
 
 - **Question 4D:** There's an [easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) hidden here.
 	Can you find it?
